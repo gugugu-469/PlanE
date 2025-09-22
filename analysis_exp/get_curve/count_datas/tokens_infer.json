@@ -1,0 +1,54 @@
+{
+  "DrugProt-llama3.1": {
+    "withtype_v0_A": 0,
+    "withtype_bidirection_A": 0,
+    "withtype_pipeline_A": 0,
+    "withtype_bidirection_B": 0,
+    "withtype_pipeline_B": 0,
+    "withtype_bidirection_C": 0,
+    "withtype_pipeline_C": 0,
+    "withtype_bidirection_D": 0,
+    "withtype_pipeline_D": 0,
+    "withtype_bidirection_E": 0,
+    "withtype_pipeline_E": 0
+  },
+  "DrugProt-qwen3": {
+    "withtype_v0_A": 0,
+    "withtype_bidirection_A": 0,
+    "withtype_pipeline_A": 0,
+    "withtype_bidirection_B": 0,
+    "withtype_pipeline_B": 0,
+    "withtype_bidirection_C": 0,
+    "withtype_pipeline_C": 0,
+    "withtype_bidirection_D": 0,
+    "withtype_pipeline_D": 0,
+    "withtype_bidirection_E": 0,
+    "withtype_pipeline_E": 0
+  },
+  "DrugProt-glm4": {
+    "withtype_v0_A": 0,
+    "withtype_bidirection_A": 0,
+    "withtype_pipeline_A": 0,
+    "withtype_bidirection_B": 0,
+    "withtype_pipeline_B": 0,
+    "withtype_bidirection_C": 0,
+    "withtype_pipeline_C": 0,
+    "withtype_bidirection_D": 0,
+    "withtype_pipeline_D": 0,
+    "withtype_bidirection_E": 0,
+    "withtype_pipeline_E": 0
+  },
+  "DrugProt-intern3": {
+    "withtype_v0_A": 0,
+    "withtype_bidirection_A": 0,
+    "withtype_pipeline_A": 0,
+    "withtype_bidirection_B": 0,
+    "withtype_pipeline_B": 0,
+    "withtype_bidirection_C": 0,
+    "withtype_pipeline_C": 0,
+    "withtype_bidirection_D": 0,
+    "withtype_pipeline_D": 0,
+    "withtype_bidirection_E": 0,
+    "withtype_pipeline_E": 0
+  }
+}

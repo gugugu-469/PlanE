@@ -1,0 +1,291 @@
+{
+  "cmeie_no_chaijie_sft":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/不拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_no_chaijie_grpo":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/不拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_no_chaijie_dpo":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/不拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_no_chaijie_kto":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/不拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_bidirection_sft":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/双向拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_bidirection_grpo":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/双向拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_bidirection_dpo":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/双向拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_bidirection_kto":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/双向拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_pipeline_sft":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/pipeline拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_pipeline_grpo":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/pipeline拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_pipeline_dpo":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/pipeline拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "cmeie_pipeline_kto":{
+    "file_name": "xx/CMeIE-V2/指令微调数据/pipeline拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_no_chaijie_sft":{
+    "file_name": "xx/ACE05/指令微调数据/不拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_no_chaijie_grpo":{
+    "file_name": "xx/ACE05/指令微调数据/不拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_no_chaijie_dpo":{
+    "file_name": "xx/ACE05/指令微调数据/不拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_no_chaijie_kto":{
+    "file_name": "xx/ACE05/指令微调数据/不拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_bidirection_sft":{
+    "file_name": "xx/ACE05/指令微调数据/双向拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_bidirection_grpo":{
+    "file_name": "xx/ACE05/指令微调数据/双向拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_bidirection_dpo":{
+    "file_name": "xx/ACE05/指令微调数据/双向拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_bidirection_kto":{
+    "file_name": "xx/ACE05/指令微调数据/双向拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_pipeline_sft":{
+    "file_name": "xx/ACE05/指令微调数据/pipeline拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_pipeline_grpo":{
+    "file_name": "xx/ACE05/指令微调数据/pipeline拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_pipeline_dpo":{
+    "file_name": "xx/ACE05/指令微调数据/pipeline拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "ace05_pipeline_kto":{
+    "file_name": "xx/ACE05/指令微调数据/pipeline拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_no_chaijie_sft":{
+    "file_name": "xx/14lap/指令微调数据/不拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_no_chaijie_grpo":{
+    "file_name": "xx/14lap/指令微调数据/不拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_no_chaijie_dpo":{
+    "file_name": "xx/14lap/指令微调数据/不拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_no_chaijie_kto":{
+    "file_name": "xx/14lap/指令微调数据/不拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_bidirection_sft":{
+    "file_name": "xx/14lap/指令微调数据/双向拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_bidirection_grpo":{
+    "file_name": "xx/14lap/指令微调数据/双向拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_bidirection_dpo":{
+    "file_name": "xx/14lap/指令微调数据/双向拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_bidirection_kto":{
+    "file_name": "xx/14lap/指令微调数据/双向拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_pipeline_sft":{
+    "file_name": "xx/14lap/指令微调数据/pipeline拆解_SFT/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_pipeline_grpo":{
+    "file_name": "xx/14lap/指令微调数据/pipeline拆解_GRPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_pipeline_dpo":{
+    "file_name": "xx/14lap/指令微调数据/pipeline拆解_DPO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "14lap_pipeline_kto":{
+    "file_name": "xx/14lap/指令微调数据/pipeline拆解_KTO/sft.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
+

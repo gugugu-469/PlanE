@@ -1,0 +1,1030 @@
+{
+    "DrugProt-llama3.1": {
+      "withtype_v0_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-4": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "DrugProt-qwen3": {
+      "withtype_v0_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-4": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "DrugProt-glm4": {
+      "withtype_v0_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-4": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "DrugProt-intern3": {
+      "withtype_v0_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_pipeline_E_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_A_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_B_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_C_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_D_B-4": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_A": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-1": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-2": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-3": [
+        "",
+        "",
+        ""
+      ],
+      "withtype_bidirection_E_B-4": [
+        "",
+        "",
+        ""
+      ]
+    }
+  }
