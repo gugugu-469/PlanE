@@ -1,6 +1,6 @@
-# LLM4Ext: Meta Planning of Data, Tuning, and Inference for Extractive LLMs
+# PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs
 
-This repository contains the code and resources for the paper **"LLM4Ext: Meta Planning of Data, Tuning, and Inference for Extractive LLMs"**. The project focuses on optimizing the combination of data, training, and inference strategies for large language models (LLMs) in relation extraction tasks.
+This repository contains the code and resources for the paper **"PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs"**. The project focuses on optimizing the combination of data, training, and inference strategies for large language models (LLMs) in relation extraction tasks.
 
 ---
 
