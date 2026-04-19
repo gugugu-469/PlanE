@@ -2,6 +2,10 @@
 
 This repository contains the code and resources for the paper **"PlanE: Meta Planning of Data, Tuning, and Inference for Extractive-based LLMs"**. The project focuses on optimizing the combination of data, training, and inference strategies for large language models (LLMs) in information extraction tasks.
 
+## Framework Architecture
+
+![Framework](./assets/framework.png)
+
 ---
 
 ## Repository Structure
